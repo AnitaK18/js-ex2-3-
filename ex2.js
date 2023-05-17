@@ -42,5 +42,5 @@ function sum(a) {
 
   return f;
 }
-
+console.log( sum(1)(2)(3) );
 alert( sum(1)(2)(3) ); // 3
